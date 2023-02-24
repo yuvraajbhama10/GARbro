@@ -66,4 +66,4 @@ Simplified Chinese translation by [elasticblitz](https://github.com/elasticblitz
 
 Japanese translation by [haniwa55](https://github.com/haniwa55)
 
-Hi hi hi there my little droogies!
+Hi hi hi there my little droogies!!!
