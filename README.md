@@ -65,3 +65,5 @@ Korean translation by [mireado](https://github.com/mireado), [overworks](https:/
 Simplified Chinese translation by [elasticblitz](https://github.com/elasticblitz), [PeratX](https://github.com/PeratX) and [taroxd](https://github.com/taroxd)
 
 Japanese translation by [haniwa55](https://github.com/haniwa55)
+
+Hi hi hi there my little droogies!
